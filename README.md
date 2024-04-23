@@ -2,7 +2,7 @@
 <img align="center" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--NzgxrJEe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mdvk568xm4hmk3bjfsqs.gif" >
 </div>
 <h1 align="center">Hi 👋, I'm Luis VT</h1>
-<h3 align="center">A passionate fullstack developer from Peru</h3>
+<h3 align="center">fullstack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/FdkbSvSxI9MAAAAd/chilled-lamb-mienar.gif">
 
 - 🔭 I’m currently working on [chatrct](proximamente)
