@@ -1,7 +1,7 @@
 <div align="center" width="100%">
 
-<h1 align="center">Hi 👋, I'm Luis VT</h1>
-<h3 align="center">fullstack developer</h3>
+<h1 align="center">👋, I'm Luis VT</h1>
+<h3 align="center">developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/FdkbSvSxI9MAAAAd/chilled-lamb-mienar.gif">
 
 - 🔭 I’m currently working on [chatrct](proximamente)
